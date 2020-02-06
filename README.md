@@ -1,6 +1,6 @@
 # gvm
 
-[![Build Status](https://travis-ci.org/moovweb/gvm.svg?branch=master)](https://travis-ci.org/moovweb/gvm)
+[![Build Status](https://travis-ci.org/moovweb/gvm.svg?branch=master)](https://travis-ci.org/moovweb/gvm) [![Join the chat at https://gitter.im/GoVesionManager/community](https://badges.gitter.im/GoVesionManager/community.svg)](https://gitter.im/GoVesionManager/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 by Josh Bussdieker (jbuss, jaja, jbussdieker) while working at [Moovweb](https://www.moovweb.com)
 
